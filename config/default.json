@@ -1,0 +1,7 @@
+{
+    "mongoURI" : "mongodb+srv://sushmita123:Inspira%403100@devconnector.5wstf.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret" : "secrettoken",
+    "githubClientId":"8601141c51ef62ec186f",
+    "githubSecret":"7496f3c6ad99e68487ff29d9245b91a4ae11dee1"
+
+}
